@@ -40,23 +40,23 @@
 
 #### 挂载多重加载
 
-![多重加载](C:\Users\lenovo\Desktop\chap0x01\img\多重加载.jpg)
+![多重加载](img\多重加载.jpg)
 
 
 
 #### 配置各虚拟机的网络（如图）
 
-![网卡1](C:\Users\lenovo\Desktop\chap0x01\img\网卡1.jpg)
+![网卡1](img\网卡1.jpg)
 
-![网卡2](C:\Users\lenovo\Desktop\chap0x01\img\网卡2.jpg)
+![网卡2](img\网卡2.jpg)
 
-![网卡3](C:\Users\lenovo\Desktop\chap0x01\img\网卡3.jpg)
+![网卡3](img\网卡3.jpg)
 
-![网卡4](C:\Users\lenovo\Desktop\chap0x01\img\网卡4.jpg)
+![网卡4](img\网卡4.jpg)
 
-![网卡5](C:\Users\lenovo\Desktop\chap0x01\img\网卡5.jpg)
+![网卡5](img\网卡5.jpg)
 
-![网卡6](C:\Users\lenovo\Desktop\chap0x01\img\网卡6.jpg)
+![网卡6](img\网卡6.jpg)
 
 
 
@@ -77,53 +77,53 @@
 
 - 靶机可以直接访问攻击者主机
 
-  ![靶机可以直接访问攻击者主机1](C:\Users\lenovo\Desktop\chap0x01\img\靶机可以直接访问攻击者主机1.jpg)
+  ![靶机可以直接访问攻击者主机1](img\靶机可以直接访问攻击者主机1.jpg)
 
-  ![靶机可以直接访问攻击者主机2](C:\Users\lenovo\Desktop\chap0x01\img\靶机可以直接访问攻击者主机2.jpg)
+  ![靶机可以直接访问攻击者主机2](img\靶机可以直接访问攻击者主机2.jpg)
 
-  ![靶机可以直接访问攻击者主机3](C:\Users\lenovo\Desktop\chap0x01\img\靶机可以直接访问攻击者主机3.jpg)
+  ![靶机可以直接访问攻击者主机3](img\靶机可以直接访问攻击者主机3.jpg)
 
-  ![靶机可以直接访问攻击者主机4](C:\Users\lenovo\Desktop\chap0x01\img\靶机可以直接访问攻击者主机4.jpg)
+  ![靶机可以直接访问攻击者主机4](img\靶机可以直接访问攻击者主机4.jpg)
 
   
 
 - 攻击者主机无法直接访问靶机
 
-  ![攻击者主机无法直接访问靶机](C:\Users\lenovo\Desktop\chap0x01\img\攻击者主机无法直接访问靶机.jpg)
+  ![攻击者主机无法直接访问靶机](img\攻击者主机无法直接访问靶机.jpg)
 
   
 
 - 网关可以直接访问攻击者主机和靶机
 
-  ![网关可以直接访问攻击者主机和靶机1](C:\Users\lenovo\Desktop\chap0x01\img\网关可以直接访问攻击者主机和靶机1.jpg)
+  ![网关可以直接访问攻击者主机和靶机1](img\网关可以直接访问攻击者主机和靶机1.jpg)
 
   
 
-  ![网关可以直接访问攻击者主机和靶机2](C:\Users\lenovo\Desktop\chap0x01\img\网关可以直接访问攻击者主机和靶机2.jpg)
+  ![网关可以直接访问攻击者主机和靶机2](img\网关可以直接访问攻击者主机和靶机2.jpg)
 
   
 
 - 靶机的所有对外上下行流量必须经过网关
 
-  ![安装tcpdump](C:\Users\lenovo\Desktop\chap0x01\img\安装tcpdump.jpg)
+  ![安装tcpdump](img\安装tcpdump.jpg)
 
-  ![网关流量](C:\Users\lenovo\Desktop\chap0x01\img\网关流量.jpg)
+  ![网关流量](img\网关流量.jpg)
 
   
 
 - 所有节点均可以访问互联网
 
-![访问1](C:\Users\lenovo\Desktop\chap0x01\img\访问1.jpg)
+![访问1](img\访问1.jpg)
 
-![访问2](C:\Users\lenovo\Desktop\chap0x01\img\访问2.jpg)
+![访问2](img\访问2.jpg)
 
-![访问3](C:\Users\lenovo\Desktop\chap0x01\img\访问3.jpg)
+![访问3](img\访问3.jpg)
 
-![访问4](C:\Users\lenovo\Desktop\chap0x01\img\访问4.jpg)
+![访问4](img\访问4.jpg)
 
-![访问5](C:\Users\lenovo\Desktop\chap0x01\img\访问5.jpg)
+![访问5](img\访问5.jpg)
 
-![访问6](C:\Users\lenovo\Desktop\chap0x01\img\访问6.jpg)
+![访问6](img\访问6.jpg)
 
 ## 实验参考
 
